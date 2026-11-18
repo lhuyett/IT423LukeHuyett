@@ -28,8 +28,8 @@ Add these before submitting (export each to PDF and use exactly these names):
 - `Huyett_Senior_Portfolio.pdf`: the written portfolio doc
 - `Huyett_Portfolio_Presentation.pdf`: the slide deck
 - `Millennium_Research_Summary.pdf`: the research evidence doc
-- `Capstone_AI_Workflow.pdf`: n8n workflow screenshot or diagram from the capstone
+- `Capstone_Final_Presentation.pdf`: capstone final presentation (includes the AI workflow)
 - `IT370_Forensics_Lab.pdf`: one IT 370 lab write-up
-- `Capstone_Scrum_Work.pdf`: sprint board, sprint notes, or capstone slides
+- `ITS_Hour_Log.pdf`: ITS internship hour log
 - `ITS_Remote_Access_Instructions.pdf`: the lab remote-access instructions
-- `Associate_of_the_Month.pdf`: certificate, photo, or email recognizing the award
+- `Associate_of_the_Month.pdf`: Associate of the Month certificates, photos, or emails (combine into one PDF)
